@@ -1,2 +1,2 @@
-# PythonNote_Encode
-This is a note about Simple Encoding. 
+感谢你的阅读！
+记得点赞哦~
